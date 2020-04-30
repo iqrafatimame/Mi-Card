@@ -6,4 +6,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 
 ## Screenshot
-<img src="images/final.png" height="500" width="300">
+<img src="images/final.png" height="600" width="320">
